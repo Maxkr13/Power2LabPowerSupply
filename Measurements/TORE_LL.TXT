@@ -1,6 +1,6 @@
 4294A REV1.11
 "DATE: Dec 21 2017"
-
+"Trace A: inductance, Trace B: resistance"
 
 "MEASURE PARAMETER: Ls - Rs"
 "ADAPTER: NONE"
