@@ -1,0 +1,8 @@
+%Plotting inductance measurements of transformer
+fid=fopen('LL_IND.txt','r');
+tt = textscan(fid,'%f %f %f');
+fclose(fid);
+data = cell2mat(tt);
+
+semilogx(data(:,1)*,data(:,2))
+grid on;
